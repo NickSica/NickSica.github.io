@@ -2,11 +2,11 @@
     font-family: "Comic Sans MS", sans-serif;
 }
 
-h1 h2 {
-    position: center;
+h1,w h2 {
+    text-align: center;
 }
 
-h2 {
-    font-family: Wingdings, serif;
+h1 {
+    font-family: "Press Start 2P", cursive;
 }
 
