@@ -2,7 +2,12 @@
     font-family: "Comic Sans MS", sans-serif;
 }
 
-h1, h2 {
+
+body {
+    background-image: url("http://www.guoguiyan.com/data/out/135/69105093-nazi-wallpapers.jpg");
+}
+
+h1,w h2 {
     text-align: center;
 }
 
